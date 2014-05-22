@@ -1,0 +1,4 @@
+Figure out how to make a package
+Make the dungeon objects a package
+Figure out how to get dungeon objects to draw themselves
+  Maybe have them return an Image with what they are supposed to look like then you can paste everything on top of each other?
